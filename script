@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#example od using argument to a script
+echo "my first name is $jeshwanth"
+echo "last name $kumar"
+echo "total number mof argument is $#"
+
